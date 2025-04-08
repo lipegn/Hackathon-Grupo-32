@@ -1,6 +1,6 @@
-# Hackathon 4NETT - Health&Med -> Grupo 32
+# Hackathon 4NETT - Health&Med 
 
-Entrega do Hackathon da fase 5 da PosTech Fiap do grupo 32 
+Entrega do Hackathon da fase 5 da PosTech Fiap do *grupo 32*
 
  - Mayara Alves da Silva - RM 357738
  - Felipe Gonçalves - RM 357046
