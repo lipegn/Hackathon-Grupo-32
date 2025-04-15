@@ -20,5 +20,8 @@ A arquitetura adotada segue o modelo em camadas com uso de microserviços. Utili
 Cada microserviço é responsável por uma funcionalidade específica e opera de forma totalmente isolada dos demais, garantindo uma estrutura desacoplada e de fácil manutenção.
 Para garantir escalabilidade e resiliência ao ambiente, utilizamos o Kubernetes como orquestrador de containers.
 
+## Desenho da arquitetura
+
+
     
 ## Rodando o Projeto
