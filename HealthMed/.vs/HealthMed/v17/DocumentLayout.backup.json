@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|c:\\fiap\\hackathon-grupo-32\\healthmed\\core\\dados\\coredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|solutionrelative:core\\dados\\coredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|c:\\fiap\\hackathon-grupo-32\\healthmed\\core\\entidade\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|solutionrelative:core\\entidade\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|c:\\fiap\\hackathon-grupo-32\\healthmed\\core\\entidade\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|solutionrelative:core\\entidade\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|c:\\fiap\\hackathon-grupo-32\\healthmed\\core\\entidade\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|solutionrelative:core\\entidade\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|c:\\fiap\\hackathon-grupo-32\\healthmed\\core\\entidade\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|solutionrelative:core\\entidade\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|c:\\fiap\\hackathon-grupo-32\\healthmed\\core\\entidade\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|solutionrelative:core\\entidade\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33398005-3BF3-452C-8B3B-975A4226D02B}|Test\\Test.csproj|c:\\fiap\\hackathon-grupo-32\\healthmed\\test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33398005-3BF3-452C-8B3B-975A4226D02B}|Test\\Test.csproj|solutionrelative:test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{076545E3-A4E7-442A-BA9D-E1A323192845}|Worker\\Worker.csproj|c:\\fiap\\hackathon-grupo-32\\healthmed\\worker\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076545E3-A4E7-442A-BA9D-E1A323192845}|Worker\\Worker.csproj|solutionrelative:worker\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|c:\\fiap\\hackathon-grupo-32\\healthmed\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F9C883-48C2-466D-876D-157D914AA720}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +59,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CoreDbContext.cs",
+              "DocumentMoniker": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Dados\\CoreDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\Dados\\CoreDbContext.cs",
+              "ToolTip": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Dados\\CoreDbContext.cs",
+              "RelativeToolTip": "Core\\Dados\\CoreDbContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:05:16.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entidade.cs",
+              "DocumentMoniker": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Entidade\\Entidade.cs",
+              "RelativeDocumentMoniker": "Core\\Entidade\\Entidade.cs",
+              "ToolTip": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Entidade\\Entidade.cs",
+              "RelativeToolTip": "Core\\Entidade\\Entidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:31:37.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Entidade\\Consulta.cs",
+              "RelativeDocumentMoniker": "Core\\Entidade\\Consulta.cs",
+              "ToolTip": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Entidade\\Consulta.cs",
+              "RelativeToolTip": "Core\\Entidade\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:31:22.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Entidade\\Agenda.cs",
+              "RelativeDocumentMoniker": "Core\\Entidade\\Agenda.cs",
+              "ToolTip": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Entidade\\Agenda.cs",
+              "RelativeToolTip": "Core\\Entidade\\Agenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:31:11.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Entidade\\Paciente.cs",
+              "RelativeDocumentMoniker": "Core\\Entidade\\Paciente.cs",
+              "ToolTip": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Entidade\\Paciente.cs",
+              "RelativeToolTip": "Core\\Entidade\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:28:19.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Entidade\\Medico.cs",
+              "RelativeDocumentMoniker": "Core\\Entidade\\Medico.cs",
+              "ToolTip": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Entidade\\Medico.cs",
+              "RelativeToolTip": "Core\\Entidade\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:28:37.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Test\\UnitTest1.cs",
               "ToolTip": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Test\\UnitTest1.cs",
               "RelativeToolTip": "Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T19:44:55.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Worker\\Class1.cs",
               "RelativeDocumentMoniker": "Worker\\Class1.cs",
@@ -59,21 +157,7 @@
               "RelativeToolTip": "Worker\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T19:44:10.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Class1.cs",
-              "RelativeDocumentMoniker": "Core\\Class1.cs",
-              "ToolTip": "C:\\FIAP\\Hackathon-Grupo-32\\HealthMed\\Core\\Class1.cs",
-              "RelativeToolTip": "Core\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T19:35:03.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T19:44:10.401Z"
             }
           ]
         }
