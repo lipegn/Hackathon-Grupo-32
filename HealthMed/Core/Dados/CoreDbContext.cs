@@ -5,6 +5,9 @@ namespace Core.Dados;
 public class CoreDbContext : DbContext
 {
     public DbSet<Paciente> Pacientes { get; set; }
+    public DbSet<Medico> Medicos { get; set; }
+    public DbSet<Paciente> Agendas { get; set; }
+    public DbSet<Consulta> Consultas { get; set; }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         // Paciente -------------------------------------------------------------------------------
@@ -28,6 +31,7 @@ public class CoreDbContext : DbContext
             entity.Property(p => p.Nome).IsRequired().HasMaxLength(100);
             entity.Property(p => p.Crm).IsRequired().HasMaxLength(100);
             entity.Property(p => p.Senha).IsRequired().HasMaxLength(50);
+            entity.Property(p => p.Especialidade).IsRequired().HasMaxLength(100);
         });
 
         // Agenda ---------------------------------------------------------------------------------
@@ -44,12 +48,10 @@ public class CoreDbContext : DbContext
         modelBuilder.Entity<Consulta>(entity =>
         {
             entity.HasKey(c => c.Codigo);
-
             entity.HasOne(c => c.Customer).WithMany().HasForeignKey(c => c.PacienteId).OnDelete(DeleteBehavior.Restrict);
-
             entity.HasOne(c => c.Agenda).WithMany().HasForeignKey(c => c.AgendaId).OnDelete(DeleteBehavior.Restrict);
-
             entity.HasOne(c => c.Medico).WithMany().HasForeignKey(c => c.MedicoId).OnDelete(DeleteBehavior.Restrict);
+            entity.Property(p => p.Valor).IsRequired();
         });
     }
 }

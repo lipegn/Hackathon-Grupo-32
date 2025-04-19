@@ -8,5 +8,6 @@
         public Agenda Agenda { get; private set; }
         public int MedicoId { get; set; }
         public Agenda Medico { get; private set; }
+        public decimal Valor { get; set; }
     }
 }
